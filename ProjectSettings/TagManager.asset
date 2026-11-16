@@ -57,17 +57,17 @@ TagManager:
   - name: Environment
     uniqueID: 212124701
     locked: 0
-  - name: Player
-    uniqueID: 962217711
-    locked: 0
   - name: Trash
     uniqueID: 3994976643
     locked: 0
-  - name: Hazards
-    uniqueID: 1331587573
-    locked: 0
   - name: 'Bins '
     uniqueID: 1534005909
+    locked: 0
+  - name: Player
+    uniqueID: 1778099975
+    locked: 0
+  - name: Hazards
+    uniqueID: 1331587573
     locked: 0
   - name: Foreground
     uniqueID: 2141545881
