@@ -1,0 +1,80 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - Trash
+  - OrganicBin
+  - NonOrganicBin
+  - B3Bin
+  - Hazard
+  - PowerUp
+  - Exit
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - Trash
+  - Bins
+  - Hazards
+  - PowerUps
+  - Environment
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 2497355097
+    locked: 0
+  - name: 'Ground '
+    uniqueID: 3240623575
+    locked: 0
+  - name: Environment
+    uniqueID: 212124701
+    locked: 0
+  - name: Player
+    uniqueID: 962217711
+    locked: 0
+  - name: Trash
+    uniqueID: 3994976643
+    locked: 0
+  - name: Hazards
+    uniqueID: 1331587573
+    locked: 0
+  - name: 'Bins '
+    uniqueID: 1534005909
+    locked: 0
+  - name: Foreground
+    uniqueID: 2141545881
+    locked: 0
+  - name: UI
+    uniqueID: 1765627257
+    locked: 0
+  m_RenderingLayers:
+  - Default
+  m_MigratedRenderPipelines: []
