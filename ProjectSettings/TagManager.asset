@@ -69,6 +69,9 @@ TagManager:
   - name: Hazards
     uniqueID: 1331587573
     locked: 0
+  - name: PowerUps
+    uniqueID: 3617707627
+    locked: 0
   - name: Foreground
     uniqueID: 2141545881
     locked: 0
