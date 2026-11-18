@@ -130,6 +130,7 @@ GameObject:
   - component: {fileID: 20792916}
   - component: {fileID: 20792918}
   - component: {fileID: 20792917}
+  - component: {fileID: 20792919}
   m_Layer: 5
   m_Name: SettingsOverlay
   m_TagString: Untagged
@@ -195,6 +196,23 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 20792915}
   m_CullTransparentMesh: 1
+--- !u!114 &20792919
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 20792915}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bb1a151ac63668643b881c57e32e67e4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::SettingsController
+  audioMixer: {fileID: 0}
+  musicSlider: {fileID: 0}
+  sfxSlider: {fileID: 0}
+  musicPercentText: {fileID: 1934447517}
+  sfxPercentText: {fileID: 1309979653}
 --- !u!1 &52208021
 GameObject:
   m_ObjectHideFlags: 0
