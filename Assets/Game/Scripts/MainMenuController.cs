@@ -10,6 +10,12 @@ public class MainMenuController : MonoBehaviour
     [Header("Game Scene")]
     public string gameSceneName = "GamePlay";
 
+    private void Start()
+    {
+        // Settings tertutup saat Main Menu pertama kali dibuka
+        settingsPanel.SetActive(false);
+    }
+
     // Membuka Scene permainan
     public void PlayGame()
     {
